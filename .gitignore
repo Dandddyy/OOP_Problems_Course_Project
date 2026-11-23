@@ -1,0 +1,111 @@
+# Local configs
+docker-compose.yml
+backend/kyiv_drive/src/main/resources/application.properties
+
+# Routing downloads, generated graphs, build logs and release manifests
+osrm-data/
+
+# Python tooling cache
+__pycache__/
+
+# =========================
+# SYSTEM & MAC OS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# =========================
+# IDE & EDITOR (Global)
+# =========================
+# IntelliJ / Android Studio
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# =========================
+# BACKEND (Spring Boot / Java)
+# =========================
+# Maven output
+target/
+**/target/
+
+# Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+*.log.*
+
+# Spring Boot help
+HELP.md
+
+# STS / Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# =========================
+# FRONTEND (Flutter)
+# =========================
+# Dart & Pub
+.dart_tool/
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build artifacts
+build/
+**/build/
+coverage/
+
+# Misc
+migrate_working_dir/
+*.swp
+
+# =========================
+# FRONTEND - ANDROID SPECIFIC
+# =========================
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/.gradle
+**/android/local.properties
+**/android/key.properties
+
+# =========================
+# FRONTEND - IOS SPECIFIC
+# =========================
+# CocoaPods
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/.last_build_id
+
+# Generated files
+**/ios/*.mode1v3
+**/ios/*.mode2v3
+**/ios/*.moved-aside
+**/ios/*.nxstyle
+**/ios/*.osmeta
+**/ios/*.pbuser
+**/ios/*.perspectivev3
+**/ios/*.xcuserstate
+
+# =========================
+# KEYS & SECRETS
+# =========================
+*.env
+secrets.properties
+/backend/kyiv_drive/.secrets/

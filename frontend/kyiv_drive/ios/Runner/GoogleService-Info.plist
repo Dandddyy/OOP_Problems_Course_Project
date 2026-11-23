@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>656220985091-dttkm5ie6pcc2q06m6is5o252196jki1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.656220985091-dttkm5ie6pcc2q06m6is5o252196jki1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>656220985091-h10cnq5ksntnsq3oqp43jvjpf330v7hg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCt7Ub7Z-XvER9V1krnEKx9p-z5iTh5Ho</string>
+	<key>GCM_SENDER_ID</key>
+	<string>656220985091</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ua.kyiv.drive.kyivDrive</string>
+	<key>PROJECT_ID</key>
+	<string>kyiv-drive</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kyiv-drive.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:656220985091:ios:e771f275be181ef3d53b36</string>
+</dict>
+</plist>
